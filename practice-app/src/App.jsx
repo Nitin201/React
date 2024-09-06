@@ -1,14 +1,11 @@
-import './App.css'
-// eslint-disable-next-line no-unused-vars
-import nit from './components/nit'
+import React from 'react'
+import {} from './components/functionOnClick'
+
 function App() {
-
-
   return (
-    <>
-      <nit/>
-  
-    </>
+    <div>
+    <functionOnClick/>
+    </div>
   )
 }
 
